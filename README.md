@@ -1,4 +1,4 @@
-Aymen's GitHub Profile
+Aymen's GitHub Profile :)
 
 Welcome to my GitHub profile! Here, you will find a collection of my projects and contributions in the world of data analytics and visualization, with a focus on Power BI.
 
@@ -21,7 +21,7 @@ I am actively involved in collaborative projects within the GitHub community, co
 Connect with Me
 I am always eager to connect with like-minded professionals and engage in discussions related to data analytics and visualization. Feel free to reach out to me through the following channels:
 
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile URL]
-Website/Blog: [Your Website/Blog URL]
-Thank you for visiting my GitHub profile. I hope you find my projects insightful and inspiring. Let's unlock the power of data together and drive meaningful change through informed decision-making!
+Email: support@cficonsulting.fr
+LinkedIn: https://www.linkedin.com/in/aymentaggaa/
+
+Thank you for visiting my GitHub profile. I hope you find my projects insightful and inspiring. Let's unlock the power of data together and drive meaningful change through informed decision-making :)
